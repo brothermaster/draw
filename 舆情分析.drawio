@@ -239,6 +239,9 @@
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="判断政策是否会波及到该企业，影响经营。只保留符合条件的摘要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-267.5" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="SD--UhuChcl1-2W7mfNg-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;获取已发生趋势&lt;/h1&gt;&lt;p&gt;不可删除无风险事件，有些企业全部为无风险事件，这样会丢失输入新闻&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-300" width="210" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
