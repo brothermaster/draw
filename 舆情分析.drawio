@@ -201,9 +201,6 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;依据风险，提供建议，&lt;br&gt;风险等级越低，建议措施越乐观，高风险要紧迫" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-790" y="200" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-14" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-267.5" width="140" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-19" value="依据风险搜索银行建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -239,9 +236,6 @@
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="判断政策是否会波及到该企业，影响经营。只保留符合条件的摘要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-267.5" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="lsIKMOZY7OtliEtVQewP-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;无风险事件&lt;/h1&gt;&lt;p&gt;不进行趋势预测&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-290" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
