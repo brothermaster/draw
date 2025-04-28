@@ -160,14 +160,15 @@
         <mxCell id="ap1UafbcO5KSiNEdRv5n-1" value="分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ap1UafbcO5KSiNEdRv5n-13" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#2F28FF;" edge="1" parent="1" source="ap1UafbcO5KSiNEdRv5n-3" target="oFf2WfIn4G3x6mx1aA_b-9">
+        <mxCell id="ap1UafbcO5KSiNEdRv5n-13" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#2F28FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ap1UafbcO5KSiNEdRv5n-3" target="oFf2WfIn4G3x6mx1aA_b-9">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-540" y="-210" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-560" y="-180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ap1UafbcO5KSiNEdRv5n-3" value="企业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ap1UafbcO5KSiNEdRv5n-3" value="企业已知趋势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-9" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ap1UafbcO5KSiNEdRv5n-4" target="cwKaPlKyqX2xf4Qcig6E-5">
@@ -179,7 +180,7 @@
         <mxCell id="ap1UafbcO5KSiNEdRv5n-12" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#2F28FF;" edge="1" parent="1" source="ap1UafbcO5KSiNEdRv5n-11" target="oFf2WfIn4G3x6mx1aA_b-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ap1UafbcO5KSiNEdRv5n-11" value="同行业企业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ap1UafbcO5KSiNEdRv5n-11" value="同行业企业趋势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-15" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;h1 style=&quot;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;蓝色箭头处理结果&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; * 事件路径：风险演化路径&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;    * 事件：三类关键事件（风险事件，风险相关事件，风险因果事件），每个事件包含以下字段：&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * 发生时间&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * 事件名称&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * 事件摘要&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * 事件来源&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * 潜在影响&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * 新闻编号&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -238,6 +239,9 @@
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="判断政策是否会波及到该企业，影响经营。只保留符合条件的摘要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-267.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lsIKMOZY7OtliEtVQewP-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;无风险事件&lt;/h1&gt;&lt;p&gt;不进行趋势预测&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-290" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
