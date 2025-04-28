@@ -142,10 +142,10 @@
         <mxCell id="oFf2WfIn4G3x6mx1aA_b-9" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-470" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oFf2WfIn4G3x6mx1aA_b-12" value="放入LLM， 分析该企业未来的风险趋势。如果等级低预测趋势保持乐观。第1和3方向无风险时固定表述&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;.企业无风险时，从政策方向进行趋势预测&lt;br&gt;依据中包含新闻（url），知识库（知识ID），政策（url）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="10" width="132.5" height="30" as="geometry" />
+        <mxCell id="oFf2WfIn4G3x6mx1aA_b-12" value="放入LLM， 分析该企业未来的风险趋势。&lt;br&gt;预测风险趋势时添加第一步的风险等级和判断依据，如果等级低预测趋势保持乐观。第1和3方向无风险时固定表述&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;.企业无风险时，从政策方向进行趋势预测&lt;br&gt;依据中包含新闻（url），知识库（知识ID），政策（url）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-790" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ap1UafbcO5KSiNEdRv5n-1" value="分析报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ap1UafbcO5KSiNEdRv5n-1" value="分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-13" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#2F28FF;" edge="1" parent="1" source="ap1UafbcO5KSiNEdRv5n-3" target="oFf2WfIn4G3x6mx1aA_b-9">
@@ -182,13 +182,13 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cwKaPlKyqX2xf4Qcig6E-6" target="ap1UafbcO5KSiNEdRv5n-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-6" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-6" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-470" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="依据风险，提供建议，用整体的风险等级判断是否建议&lt;br&gt;若上面固定表述，这里建议为持续关注&lt;br&gt;风险等级越低，建议措施越乐观，高风险要紧迫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="120" width="140" height="70" as="geometry" />
+          <mxGeometry x="-790" y="120" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-14" value="预测风险趋势时添加第一步的风险等级和判断依据&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-14" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-700" y="-267.5" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-19" value="依据风险搜索银行建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -218,10 +218,10 @@
           <mxGeometry x="-90" y="-460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-34" value="趋势预测和银行建议需要用大模型审核，" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="190" width="290" height="30" as="geometry" />
+          <mxGeometry x="-250" y="195" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-35" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;若企业无风险，无政策风险，趋势是固定的一句话。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;验证风险是否来源于企业本身的风险和政策风险出发的&lt;br&gt;判断是否有依据，若没有删除该趋势&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="240" width="350" height="220" as="geometry" />
+          <mxGeometry x="-260" y="240" width="350" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
