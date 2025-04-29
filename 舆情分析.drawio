@@ -28,15 +28,6 @@
             <mxPoint x="253" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7Zkl6-Z5yvxKvuWmYw4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="sgrRT7Y9RnZKxksEeC1y-10" target="T9yDbReyKK24o-jUDLcp-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="253" y="790" />
-              <mxPoint x="50" y="790" />
-              <mxPoint x="50" y="1525" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sgrRT7Y9RnZKxksEeC1y-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="198.25" y="580" width="110" height="160" as="geometry" />
         </mxCell>
@@ -59,7 +50,7 @@
           <mxGeometry x="358.25" y="510" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sgrRT7Y9RnZKxksEeC1y-14" value="若能搜到新闻，用LLM标记 各个新闻&lt;div&gt;风险维度、风险等级、可信度、关注企业&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="313.25" y="750" width="257.5" height="40" as="geometry" />
+          <mxGeometry x="300" y="750" width="257.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sgrRT7Y9RnZKxksEeC1y-15" value="信用预警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="1170" width="60" height="30" as="geometry" />
@@ -83,15 +74,15 @@
           <mxGeometry x="336" y="1290" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sgrRT7Y9RnZKxksEeC1y-29" value="整理合并同风险维度新闻&lt;br&gt;删除无风险和非关注企业&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="336" y="1070" width="194" height="30" as="geometry" />
+          <mxGeometry x="331.75" y="1045" width="194" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s7Zkl6-Z5yvxKvuWmYw4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sgrRT7Y9RnZKxksEeC1y-32" target="sgrRT7Y9RnZKxksEeC1y-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="1110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="1025" />
-              <mxPoint x="240" y="1073" />
-              <mxPoint x="345" y="1073" />
+              <mxPoint x="240" y="1100" />
+              <mxPoint x="345" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,8 +91,8 @@
             <mxPoint x="240" y="1030" as="sourcePoint" />
             <mxPoint x="172.5" y="1515" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="1075" />
-              <mxPoint x="90" y="1075" />
+              <mxPoint x="240" y="1100" />
+              <mxPoint x="90" y="1100" />
               <mxPoint x="90" y="1510" />
             </Array>
           </mxGeometry>
@@ -145,10 +136,10 @@
           <mxGeometry x="162.5" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s7Zkl6-Z5yvxKvuWmYw4-6" value="若没有关注该企业的新闻或所有新闻无风险，输出无风险" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1390" width="210" height="40" as="geometry" />
+          <mxGeometry x="20" y="1040" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s7Zkl6-Z5yvxKvuWmYw4-9" value="若搜不到新闻，输出无风险" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="750" width="150" height="30" as="geometry" />
+        <mxCell id="s7Zkl6-Z5yvxKvuWmYw4-9" value="若搜不到新闻，报错“找不到新闻”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
