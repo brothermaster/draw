@@ -61,9 +61,7 @@
         <mxCell id="RBczsBGnzyj4OBEVg-6A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap1UafbcO5KSiNEdRv5n-3" target="ZHlB8Fmt3uqJ9cnptXor-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-590" y="-155" />
-              <mxPoint x="-490" y="-155" />
-              <mxPoint x="-490" y="70" />
+              <mxPoint x="-590" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,7 +95,7 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-6" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;依据风险，提供建议，&lt;br&gt;风险等级越低，建议措施越乐观，高风险要紧迫&lt;br&gt;建议为兜底时，建议也是兜底" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;依据风险，提供建议，&lt;br&gt;风险等级越低，建议措施越乐观，高风险要紧迫&lt;br&gt;趋势为兜底时，建议也是兜底" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-795" y="200" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-19" value="依据风险搜索银行建议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -161,7 +159,7 @@
           <mxGeometry x="-840" y="-510" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RBczsBGnzyj4OBEVg-6A-2" value="若所有新闻无风险，直接给出，兜底的趋势预测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-270" width="60" height="30" as="geometry" />
+          <mxGeometry x="-780" y="-270" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
