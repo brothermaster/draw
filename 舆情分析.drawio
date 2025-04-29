@@ -124,7 +124,7 @@
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-13" value="&lt;h1&gt;&lt;span style=&quot;&quot;&gt;验证建议&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;&quot;&gt;用整体的风险等级判断是否建议&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;若风险趋势为固定表述，这里建议为持续关注&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-790" y="340" width="275" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="判断政策是否会波及到该企业，影响经营。只保留符合条件的摘要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="LLM判断政策是否会波及到该企业，影响经营。只保留符合条件的摘要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="-267.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dJdMZ9Y7PKRbqeQjchNC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="ap1UafbcO5KSiNEdRv5n-3">
