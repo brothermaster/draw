@@ -164,14 +164,6 @@
             <mxPoint x="-200" y="-580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qhXJRESV7l43tF63Z7o0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-2" target="qhXJRESV7l43tF63Z7o0-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-60" y="-510" />
-              <mxPoint x="80" y="-510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-2" value="行业" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-115" y="-605" width="110" height="50" as="geometry" />
         </mxCell>
@@ -271,9 +263,6 @@
         </mxCell>
         <mxCell id="qhXJRESV7l43tF63Z7o0-2" value="没有符合条件的政策或没有搜索到新闻，如何处理？&lt;div&gt;作为空字符串&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="-90" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qhXJRESV7l43tF63Z7o0-3" value="无政策新闻" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-455" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r8u7frt3MWLwYml41iRF-2" value="选取近6个月的新闻，且对该行业产生重大影响，银行需要提前防范的所有授信企业进行预警的新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="-190" width="170" height="40" as="geometry" />
