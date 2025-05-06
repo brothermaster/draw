@@ -103,16 +103,8 @@
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-13" value="&lt;h1&gt;&lt;span style=&quot;&quot;&gt;验证建议&lt;/span&gt;&lt;/h1&gt;暂未实现&lt;br&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;如何去验证？&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="430" width="275" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="LLM判断政策是否会波及到该企业，影响经营。&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如何判断？输入哪些内容进行判断？&lt;/div&gt;&lt;div&gt;目前的判断方法是：合并相关新闻和行业政策，用LLM判断&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="LLM判断政策是否会波及到该企业，影响经营。&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如何判断？输入哪些内容进行判断？&lt;/div&gt;&lt;div&gt;目前的判断方法是：行业政策，用LLM判断&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="-260" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="WetCdsiVF_AP3SzyY_i4-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-140" y="-635" />
-              <mxPoint x="-140" y="-275" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="WetCdsiVF_AP3SzyY_i4-17">
           <mxGeometry relative="1" as="geometry">
