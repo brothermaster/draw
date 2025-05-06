@@ -172,7 +172,7 @@
           <mxGeometry x="-50" y="-500" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-8" value="复用整体和各维度分析时标记的新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="-740" width="210" height="27.5" as="geometry" />
+          <mxGeometry x="-330" y="-740" width="210" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetCdsiVF_AP3SzyY_i4-9" target="ap1UafbcO5KSiNEdRv5n-11">
           <mxGeometry relative="1" as="geometry" />
