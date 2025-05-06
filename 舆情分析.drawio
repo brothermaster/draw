@@ -224,7 +224,7 @@
           <mxGeometry x="-20" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-28" value="调用搜索引擎，搜索问题的答案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="180" height="45" as="geometry" />
+          <mxGeometry x="100" y="150" width="180" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
