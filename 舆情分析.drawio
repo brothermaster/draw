@@ -11,15 +11,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U91DIvQnmMsz1mayS_uU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFf2WfIn4G3x6mx1aA_b-1" target="cwKaPlKyqX2xf4Qcig6E-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-260" y="80" />
-              <mxPoint x="-330" y="80" />
-              <mxPoint x="-330" y="285" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oFf2WfIn4G3x6mx1aA_b-1" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -82,7 +73,7 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-6" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-470" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;依据风险趋势，提供建议。&lt;div&gt;不为兜底趋势时，按趋势和银行建议知识库进行推理&lt;/div&gt;&lt;div&gt;兜底时，如何建议？&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;依据风险趋势，提供建议。&lt;div&gt;&lt;br&gt;&lt;div&gt;不为兜底趋势时，按趋势和银行建议知识库进行推理&lt;/div&gt;&lt;div&gt;兜底时，如何建议？&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-795" y="260" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-19" target="WetCdsiVF_AP3SzyY_i4-26" edge="1">
@@ -112,7 +103,7 @@
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-13" value="&lt;h1&gt;&lt;span style=&quot;&quot;&gt;验证建议&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;&quot;&gt;用整体的风险等级判断是否建议&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;若风险趋势为固定表述，这里建议为持续关注&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-790" y="430" width="275" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="LLM判断政策是否会波及到该企业，影响经营。&lt;br&gt;只保留符合条件的新闻摘要&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;输入哪些内容进行判断？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="LLM判断政策是否会波及到该企业，影响经营。&lt;br&gt;只保留符合条件的新闻摘要&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如何判断？输入哪些内容进行判断？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="-250" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="WetCdsiVF_AP3SzyY_i4-44" edge="1">
