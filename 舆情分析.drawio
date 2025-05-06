@@ -82,8 +82,10 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-19" value="银行风控问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="95" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-22" target="WetCdsiVF_AP3SzyY_i4-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WetCdsiVF_AP3SzyY_i4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="-300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-22" value="行业政策，区域政策，国家政策" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-475" width="120" height="60" as="geometry" />
@@ -254,12 +256,6 @@
         <mxCell id="WetCdsiVF_AP3SzyY_i4-40" value="同行业企业新闻" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-315" y="-515" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QwEnGSgPYAtN27IPZTok-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WetCdsiVF_AP3SzyY_i4-44" target="QwEnGSgPYAtN27IPZTok-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-44" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-300" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QwEnGSgPYAtN27IPZTok-4" target="oFf2WfIn4G3x6mx1aA_b-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -268,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-4" value="波及该企业的&lt;br&gt;政策摘要" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-115" y="-170" width="110" height="50" as="geometry" />
+          <mxGeometry x="-110" y="-300" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-18" value="取相关的新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-280" y="-670" width="90" height="30" as="geometry" />
