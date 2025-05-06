@@ -4,14 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QwEnGSgPYAtN27IPZTok-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwEnGSgPYAtN27IPZTok-12" target="oFf2WfIn4G3x6mx1aA_b-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-410" y="-80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QwEnGSgPYAtN27IPZTok-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="-440" width="510" height="135" as="geometry" />
-        </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-14" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="oFf2WfIn4G3x6mx1aA_b-1" target="oFf2WfIn4G3x6mx1aA_b-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -42,6 +34,14 @@
         </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-1" value="银行建议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwEnGSgPYAtN27IPZTok-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ap1UafbcO5KSiNEdRv5n-3" target="oFf2WfIn4G3x6mx1aA_b-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-760" y="-270" />
+              <mxPoint x="-410" y="-270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-3" value="企业已知趋势" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="-373.75" width="80" height="40" as="geometry" />
@@ -114,8 +114,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QwEnGSgPYAtN27IPZTok-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="QwEnGSgPYAtN27IPZTok-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QwEnGSgPYAtN27IPZTok-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="WetCdsiVF_AP3SzyY_i4-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="-450" />
+              <mxPoint x="-560" y="-450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QwEnGSgPYAtN27IPZTok-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="ap1UafbcO5KSiNEdRv5n-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="-450" />
+              <mxPoint x="-720" y="-450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QwEnGSgPYAtN27IPZTok-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="WetCdsiVF_AP3SzyY_i4-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="-190" />
+              <mxPoint x="-490" y="-190" />
+              <mxPoint x="-490" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QwEnGSgPYAtN27IPZTok-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="ZHlB8Fmt3uqJ9cnptXor-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="-190" />
+              <mxPoint x="-490" y="-190" />
+              <mxPoint x="-490" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dJdMZ9Y7PKRbqeQjchNC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-570" y="-740" width="220" height="210" as="geometry" />
@@ -182,10 +213,10 @@
           <mxGeometry x="-640" y="-373.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-19" value="&lt;span style=&quot;text-align: center;&quot;&gt;当无&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: center;&quot;&gt;相关&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: center;&quot;&gt;新闻&lt;br&gt;报错“无相关新闻&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: center;&quot;&gt;”&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="-416.25" width="145" height="42.5" as="geometry" />
+          <mxGeometry x="-672.5" y="-430" width="102.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-20" value="&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;&quot;&gt;当无相关的风险&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;&quot;&gt;新闻&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="-417.5" width="115" height="45" as="geometry" />
+        <mxCell id="WetCdsiVF_AP3SzyY_i4-20" value="&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;&quot;&gt;当无相关的风险&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;&quot;&gt;新闻&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;&quot;&gt;给出固定的风险趋势&lt;br&gt;根据行业给出银行建议&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-455" y="-433.75" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-20" target="WetCdsiVF_AP3SzyY_i4-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -206,7 +237,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-35" value="当有相关的风险新闻&lt;br&gt;输入LLM获取已知风险发展趋势" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="-406.25" width="170" height="26.25" as="geometry" />
+          <mxGeometry x="-900" y="-421.87" width="170" height="26.25" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-37" value="获取已知风险发展趋势" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-440" width="70" height="25" as="geometry" />
@@ -234,9 +265,6 @@
         </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-4" value="波及该企业的&lt;br&gt;政策摘要" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-115" y="-170" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QwEnGSgPYAtN27IPZTok-13" value="给定的无风险趋势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="-373.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-18" value="取相关的新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-670" width="90" height="30" as="geometry" />
