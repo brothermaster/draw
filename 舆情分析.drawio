@@ -19,7 +19,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFf2WfIn4G3x6mx1aA_b-1" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oFf2WfIn4G3x6mx1aA_b-1" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-10" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="oFf2WfIn4G3x6mx1aA_b-5" target="oFf2WfIn4G3x6mx1aA_b-1" edge="1">
@@ -64,7 +64,7 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-8" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-5" target="cwKaPlKyqX2xf4Qcig6E-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-5" value="银行建议&lt;br&gt;知识库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-5" value="银行建议&lt;br&gt;知识库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-230" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-6" target="ap1UafbcO5KSiNEdRv5n-1" edge="1">
