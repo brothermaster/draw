@@ -104,7 +104,7 @@
           <mxGeometry x="-800" y="430" width="275" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="LLM判断政策是否会波及到该企业，影响经营。&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如何判断？输入哪些内容进行判断？&lt;/div&gt;&lt;div&gt;目前的判断方法是：合并相关新闻和行业政策，用LLM判断&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="-250" width="150" height="80" as="geometry" />
+          <mxGeometry x="30" y="-260" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dJdMZ9Y7PKRbqeQjchNC-1" target="WetCdsiVF_AP3SzyY_i4-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -263,11 +263,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qhXJRESV7l43tF63Z7o0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QwEnGSgPYAtN27IPZTok-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-4" value="波及该企业的&lt;br&gt;政策摘要" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-115" y="-170" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-18" value="取相关的新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qhXJRESV7l43tF63Z7o0-2" value="没有符合条件的政策时，如何处理？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-130" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
