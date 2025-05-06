@@ -33,7 +33,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-1" value="银行建议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-470" y="537.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QwEnGSgPYAtN27IPZTok-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ap1UafbcO5KSiNEdRv5n-3" target="oFf2WfIn4G3x6mx1aA_b-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +48,7 @@
             <Array as="points">
               <mxPoint x="-600" y="-270" />
               <mxPoint x="-490" y="-270" />
-              <mxPoint x="-490" y="300" />
+              <mxPoint x="-490" y="448" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-4" value="行内多年度风险预警典型案例汇编报告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="417.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ap1UafbcO5KSiNEdRv5n-12" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#000000;" parent="1" source="ap1UafbcO5KSiNEdRv5n-11" target="oFf2WfIn4G3x6mx1aA_b-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,22 +74,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-5" value="银行建议&lt;br&gt;知识库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="417.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-6" target="ap1UafbcO5KSiNEdRv5n-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-6" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-470" y="417.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;&lt;div&gt;放入LLM，生成建议&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;只对每个趋势&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;风险&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;建议，加上当前的风险建议&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;需要兜底的情形是：企业整体无风险，且风险趋势没有政策依据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;兜底时，银行&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;建议为“持续关注”。否则&lt;/span&gt;，按趋势和银行建议知识库进行推理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;是否正确？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-795" y="260" width="310" height="100" as="geometry" />
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;&lt;div&gt;放入LLM，生成建议&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;只对每个趋势&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;风险&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;建议，加上当前的风险建议&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;需要兜底的情形是：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;当相关的无风险&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;新闻&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;且无政策新闻，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;银行&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;建议为“持续关注”。否则&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;，按趋势和银行建议知识库进行推理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;是否正确？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-807.5" y="450" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-19" target="WetCdsiVF_AP3SzyY_i4-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-19" value="银行风控问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="95" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="242.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -99,20 +99,20 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-22" value="行业政策，区域政策，国家政策" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-475" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-35" value="&lt;div style=&quot;&quot;&gt;&lt;h1 style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;验证趋势&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;企业整体有风险时需要有任意的依据，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;企业整体无风险时需要有政策依据，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;当相关的无风险&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;新闻&lt;/span&gt;且无政策新闻，趋势改为&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;固定的一句话。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;这样验证是否合理？&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;目标是：多个趋势差异大，否则合并成一个。合并好坏的趋势，两类。尽量与知识库中趋势相同&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-35" value="&lt;div style=&quot;&quot;&gt;&lt;h1 style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;验证趋势&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;企业整体有风险时需要有任意的依据，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;企业整体无风险时需要有政策依据，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;当相关的无风险&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;新闻&lt;/span&gt;且无政策新闻，趋势改为&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;固定的一句话。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;多个趋势差异大，否则合并成一个。合并好坏的趋势，两类。尽量与知识库中趋势相同&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="33.75" width="280" height="176.25" as="geometry" />
         </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZHlB8Fmt3uqJ9cnptXor-4" target="WetCdsiVF_AP3SzyY_i4-14" edge="1">
+        <mxCell id="gpuQHpmK6f_XV59q8Jwj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHlB8Fmt3uqJ9cnptXor-4" target="gpuQHpmK6f_XV59q8Jwj-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-4" value="趋势预测结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-6" value="验证后的&lt;br&gt;银行建议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-470" y="647.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-13" value="&lt;h1&gt;&lt;span style=&quot;&quot;&gt;验证建议&lt;/span&gt;&lt;/h1&gt;暂未实现&lt;br&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;如何去验证？&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;预测的是建议，发生的事件为要求，要强硬一些&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="430" width="275" height="90" as="geometry" />
+          <mxGeometry x="-805" y="610" width="275" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-16" value="LLM判断政策是否会波及到该企业，影响经营。&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如何判断？输入哪些内容进行判断？&lt;/div&gt;&lt;div&gt;目前的判断方法是：行业政策，用LLM判断&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="-425" width="150" height="80" as="geometry" />
@@ -183,13 +183,13 @@
         <mxCell id="WetCdsiVF_AP3SzyY_i4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-14" target="cwKaPlKyqX2xf4Qcig6E-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-220" y="190" />
-              <mxPoint x="-220" y="125" />
+              <mxPoint x="-220" y="337.5" />
+              <mxPoint x="-220" y="272.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-14" value="验证后的&lt;br&gt;趋势预测结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-470" y="307.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-19" value="&lt;span style=&quot;text-align: center;&quot;&gt;当无&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: center;&quot;&gt;相关&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: center;&quot;&gt;新闻&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-510" y="-400" width="80" height="30" as="geometry" />
@@ -201,16 +201,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-25" value="依据趋势预测结果，用LLM生成多个银行风控方向的问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="85" width="180" height="30" as="geometry" />
+          <mxGeometry x="-210" y="230" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-26" target="cwKaPlKyqX2xf4Qcig6E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-26" value="风控问题和相应建议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="327.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-28" value="调用搜索引擎，搜索问题的答案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="150" width="180" height="45" as="geometry" />
+          <mxGeometry x="100" y="287.5" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-3" target="dJdMZ9Y7PKRbqeQjchNC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -267,6 +267,12 @@
         </mxCell>
         <mxCell id="gpuQHpmK6f_XV59q8Jwj-7" value="企业已知风险趋势（路径为空）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="-370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gpuQHpmK6f_XV59q8Jwj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gpuQHpmK6f_XV59q8Jwj-12" target="WetCdsiVF_AP3SzyY_i4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpuQHpmK6f_XV59q8Jwj-12" value="趋势预测结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
