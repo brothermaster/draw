@@ -85,7 +85,7 @@
         <mxCell id="WetCdsiVF_AP3SzyY_i4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-22" target="WetCdsiVF_AP3SzyY_i4-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cwKaPlKyqX2xf4Qcig6E-22" value="行业政策，区域政策，国家政策，知识库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cwKaPlKyqX2xf4Qcig6E-22" value="行业政策，区域政策，国家政策" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-35" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;验证趋势&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;若企业无新闻风险，无政策风险，趋势是固定的一句话。&lt;br&gt;若企业有风险，需要提供具体的依据。&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;没有删除该趋势。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;（验证风险是否来源于企业本身的风险和政策风险出发的）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -183,8 +183,8 @@
         <mxCell id="WetCdsiVF_AP3SzyY_i4-3" value="企业" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-115" y="-720" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-7" value="&lt;span&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;搜索“房地产&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre; color: rgb(206, 145, 120);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;政策相关新闻&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;”&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="-500" width="220" height="20" as="geometry" />
+        <mxCell id="WetCdsiVF_AP3SzyY_i4-7" value="&lt;span&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;调用搜索引擎&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="-520" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-8" value="复用整体和各维度分析时标记的新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-330" y="-740" width="210" height="27.5" as="geometry" />
