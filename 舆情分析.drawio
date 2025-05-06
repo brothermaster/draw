@@ -17,7 +17,7 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-10" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="oFf2WfIn4G3x6mx1aA_b-5" target="oFf2WfIn4G3x6mx1aA_b-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oFf2WfIn4G3x6mx1aA_b-5" value="同行业发展趋势&lt;br&gt;知识库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oFf2WfIn4G3x6mx1aA_b-5" value="同行业风险发展趋势&lt;br&gt;知识库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZHlB8Fmt3uqJ9cnptXor-5" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="oFf2WfIn4G3x6mx1aA_b-9" target="ZHlB8Fmt3uqJ9cnptXor-4" edge="1">
@@ -52,8 +52,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ap1UafbcO5KSiNEdRv5n-3" value="企业已知趋势" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="-370" width="80" height="40" as="geometry" />
+        <mxCell id="ap1UafbcO5KSiNEdRv5n-3" value="企业已知风险趋势" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-670" y="-370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-9" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="ap1UafbcO5KSiNEdRv5n-4" target="cwKaPlKyqX2xf4Qcig6E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -265,8 +265,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gpuQHpmK6f_XV59q8Jwj-7" value="企业已知趋势（路径为空）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="-370" width="80" height="40" as="geometry" />
+        <mxCell id="gpuQHpmK6f_XV59q8Jwj-7" value="企业已知风险趋势（路径为空）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-370" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
