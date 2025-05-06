@@ -180,9 +180,6 @@
         <mxCell id="WetCdsiVF_AP3SzyY_i4-9" value="同行业企业" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-315" y="-610" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WetCdsiVF_AP3SzyY_i4-3" target="dJdMZ9Y7PKRbqeQjchNC-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetCdsiVF_AP3SzyY_i4-14" target="cwKaPlKyqX2xf4Qcig6E-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -220,6 +217,9 @@
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-28" value="调用搜索引擎，搜索问题的答案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WetCdsiVF_AP3SzyY_i4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WetCdsiVF_AP3SzyY_i4-3" target="dJdMZ9Y7PKRbqeQjchNC-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
