@@ -85,11 +85,11 @@
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-12" value="&lt;h1&gt;生成建议&lt;/h1&gt;&lt;div&gt;放入LLM，生成建议&lt;/div&gt;&lt;div&gt;只对每个趋势&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;风险&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;建议，加上当前的风险建议&lt;/span&gt;&lt;/div&gt;&lt;div&gt;需要兜底的情形是：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;当相关的无风险&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;新闻&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;且无政策新闻，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;银行&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;建议为“持续关注”。否则&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;，按趋势和银行建议知识库进行推理&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-807.5" y="450" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WetCdsiVF_AP3SzyY_i4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-19" target="WetCdsiVF_AP3SzyY_i4-26" edge="1">
+        <mxCell id="CqsjOWXtnqYqSsL9TkhR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwKaPlKyqX2xf4Qcig6E-19" target="CqsjOWXtnqYqSsL9TkhR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cwKaPlKyqX2xf4Qcig6E-19" value="银行风控问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="242.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cwKaPlKyqX2xf4Qcig6E-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -183,8 +183,8 @@
         <mxCell id="WetCdsiVF_AP3SzyY_i4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-14" target="cwKaPlKyqX2xf4Qcig6E-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-220" y="337.5" />
-              <mxPoint x="-220" y="272.5" />
+              <mxPoint x="-270" y="338" />
+              <mxPoint x="-270" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -201,7 +201,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-25" value="依据趋势预测结果，用LLM生成多个银行风控方向的问题&lt;br&gt;输入风险趋势和&amp;nbsp; 非无风险维度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="230" width="180" height="30" as="geometry" />
+          <mxGeometry x="-240" y="120" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-26" target="cwKaPlKyqX2xf4Qcig6E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -210,7 +210,7 @@
           <mxGeometry x="-20" y="327.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-28" value="调用搜索引擎，搜索问题的答案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="287.5" width="180" height="45" as="geometry" />
+          <mxGeometry x="80" y="135" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WetCdsiVF_AP3SzyY_i4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WetCdsiVF_AP3SzyY_i4-3" target="dJdMZ9Y7PKRbqeQjchNC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -276,6 +276,15 @@
         </mxCell>
         <mxCell id="gpuQHpmK6f_XV59q8Jwj-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;合并趋势&lt;/h1&gt;&lt;p&gt;多个趋势差异大，否则合并成一个。合并好坏的趋势，两类。尽量与知识库中趋势相同&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-805" y="230" width="275" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CqsjOWXtnqYqSsL9TkhR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CqsjOWXtnqYqSsL9TkhR-1" target="WetCdsiVF_AP3SzyY_i4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqsjOWXtnqYqSsL9TkhR-1" value="银行风控问题和对应搜索结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CqsjOWXtnqYqSsL9TkhR-9" value="输入LLM，总结搜索结果，整合为一条建议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="262.5" width="180" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
