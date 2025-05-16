@@ -925,7 +925,7 @@
           <mxGeometry x="595" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_7ywJ5M9ciY-Pydn5mH-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;合并 新事件 和 旧事件&lt;/h1&gt;&lt;p&gt;旧事件是 企业事件库中的事件&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="267.81" y="700" width="250" height="100" as="geometry" />
+          <mxGeometry x="260.62" y="710" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
