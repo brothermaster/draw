@@ -1,4 +1,127 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5" pages="5">
+  <diagram id="B4L_qUVOroqVq0ZrKm3V" name="事件管理">
+    <mxGraphModel dx="938" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-2" target="g_7ywJ5M9ciY-Pydn5mH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="150" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-3" value="新闻5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-4" value="新闻4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-5" value="新闻3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="165" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-6" value="新闻2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-7" value="新闻1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="165" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-9" target="g_7ywJ5M9ciY-Pydn5mH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-9" value="企业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-11" target="g_7ywJ5M9ciY-Pydn5mH-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-12" value="事件2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-13" value="事件1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;循环合并相似 新事件&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-17" target="g_7ywJ5M9ciY-Pydn5mH-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-17" target="g_7ywJ5M9ciY-Pydn5mH-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-17" value="企业&lt;div&gt;事件库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;获取新的新闻数据&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;通过搜索引擎、API、离线数据等途径过去新闻。&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;若搜不到新闻，报错“找不到新闻”。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;若不报错，判断企业的风险等级是什么？&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="265.62" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-19" value="更新事件库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="843.5" y="770" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;转换新闻为 新事件&lt;/h1&gt;&lt;p&gt;输入LLM，提取出事件。&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;限制如下：&lt;/span&gt;&lt;/p&gt;&lt;p&gt;1.时间范围；2.事件状态（生命周期）；&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="250.62" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-22" target="g_7ywJ5M9ciY-Pydn5mH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-22" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="595" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-23" value="提供历史事件名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-26" target="g_7ywJ5M9ciY-Pydn5mH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="470" />
+              <mxPoint x="830" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-26" target="g_7ywJ5M9ciY-Pydn5mH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-26" value="N个事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-27" value="标记已处理新闻（记录已处理新闻的链接），&lt;div&gt;下次只处理新的新闻，减少计算量&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="170" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-28" value="事件3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664.25" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-29" value="事件4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664.25" y="580" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-31" target="g_7ywJ5M9ciY-Pydn5mH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-31" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="595" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-33" target="g_7ywJ5M9ciY-Pydn5mH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-33" value="合并的新旧事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;合并 新事件 和 旧事件&lt;/h1&gt;&lt;p&gt;旧事件是 企业事件库中的事件&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260.62" y="710" width="250" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="g4KfrPMEAd8bduHjf5qQ" name="趋势预测">
     <mxGraphModel dx="2138" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -803,129 +926,6 @@
               <mxPoint x="-180" y="-50" />
             </Array>
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="B4L_qUVOroqVq0ZrKm3V" name="事件管理">
-    <mxGraphModel dx="938" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-2" target="g_7ywJ5M9ciY-Pydn5mH-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="150" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-3" value="新闻5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="220" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-4" value="新闻4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-5" value="新闻3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="165" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-6" value="新闻2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="190" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-7" value="新闻1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="165" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-9" target="g_7ywJ5M9ciY-Pydn5mH-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-9" value="企业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-11" target="g_7ywJ5M9ciY-Pydn5mH-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="540" width="190" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-12" value="事件2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="580" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-13" value="事件1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="550" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;循环合并相似 新事件&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="510" width="250" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-17" target="g_7ywJ5M9ciY-Pydn5mH-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="960" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-17" target="g_7ywJ5M9ciY-Pydn5mH-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1020" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-17" value="企业&lt;div&gt;事件库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;获取新的新闻数据&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;通过搜索引擎、API、离线数据等途径过去新闻。&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;若搜不到新闻，报错“找不到新闻”。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;若不报错，判断企业的风险等级是什么？&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="50" width="265.62" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-19" value="更新事件库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="843.5" y="770" width="123" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;转换新闻为 新事件&lt;/h1&gt;&lt;p&gt;输入LLM，提取出事件。&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;限制如下：&lt;/span&gt;&lt;/p&gt;&lt;p&gt;1.时间范围；2.事件状态（生命周期）；&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="360" width="250.62" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-22" target="g_7ywJ5M9ciY-Pydn5mH-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-22" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="595" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-23" value="提供历史事件名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="875" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-26" target="g_7ywJ5M9ciY-Pydn5mH-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="830" y="470" />
-              <mxPoint x="830" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-26" target="g_7ywJ5M9ciY-Pydn5mH-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-26" value="N个事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-27" value="标记已处理新闻（记录已处理新闻的链接），&lt;div&gt;下次只处理新的新闻，减少计算量&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="170" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-28" value="事件3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="664.25" y="550" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-29" value="事件4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="664.25" y="580" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-31" target="g_7ywJ5M9ciY-Pydn5mH-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-31" value="合并的prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="595" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g_7ywJ5M9ciY-Pydn5mH-33" target="g_7ywJ5M9ciY-Pydn5mH-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-33" value="合并的新旧事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g_7ywJ5M9ciY-Pydn5mH-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;合并 新事件 和 旧事件&lt;/h1&gt;&lt;p&gt;旧事件是 企业事件库中的事件&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260.62" y="710" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
